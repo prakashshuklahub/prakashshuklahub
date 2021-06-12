@@ -7,5 +7,5 @@ This is short summary about me:
 -  ▶️ I make videos on DS-Algo on my youtube channel in Hindi.
 - 📫 How to reach me: prakashshukla@gmail.com
 - 😄 Pronouns: p r uh - k ah sh
-- ⚡ Fun fact: I am almost 30 years old and starting my career in software engineering. I am learning 4x faster than my piers and in the journey building cool hobby projects.
+- ⚡ Fun fact: I am almost 30 years old and late entry into software engineering. I am learning 4x faster than my piers and in the journey building cool hobby projects.
  
