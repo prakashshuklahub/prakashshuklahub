@@ -2,7 +2,7 @@
 
 ### Full Stack Engineer crafting performant web experiences
 
-- 💻 **Senior Full Stack Engineer** at Infocusp Innovations, specialising in Node and React-based frameworks.
+- 💻 **Senior Full Stack Engineer** specialising in Node and React-based frameworks.
 - ⚡ Passionate about modular architecture, state management and test-driven development
 - 🌱 Continuously learning & teaching **Data Structures, Algorithms & System Design**
 - 🎬 Creator of [The Hustling Engineer](https://www.youtube.com/@TheHustlingEngineer) YouTube channel with 21k+ subscribers
