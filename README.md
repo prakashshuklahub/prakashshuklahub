@@ -20,7 +20,8 @@
 
 - Modernising **CityAM**, a UK news platform serving **100,000+ daily users** — stability, performance, maintainability.
 - Designed a **multi-tenant architecture** across 10+ corporate sites that cut duplicate code by **50%** and made onboarding a new site fast.
-- Building and maintaining **10+ corporate websites**, working with product managers, designers and stakeholders to ship business requirements on schedule.
+- Shipping features and resolving production issues across **10+ corporate websites**, working with product managers, designers and stakeholders.
+- Using AI-assisted tooling (**Claude Code**, **Codex**) to speed up delivery, debugging and code review while holding production-quality standards.
 
 ## 📈 Things I've shipped
 
