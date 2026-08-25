@@ -84,9 +84,9 @@
 |---|---|---|
 | **[Stocklens](https://github.com/prakashshuklahub/stocklens)** · [live ↗](https://stocklens-amber.vercel.app) | Mobile-first US-equity watchlist with live prices, signal-based bullish/bearish ranking, nightly picks, portfolio sync and an optional WhatsApp briefing | Next.js 16, Supabase, NextAuth, Yahoo Finance, Finnhub, Gemini, Twilio |
 | **[Jobportal](https://github.com/prakashshuklahub/Jobportal)** · [live ↗](https://jobportal-eight-lyart.vercel.app) | Job discovery for software roles in Germany — pulls multiple portals, keeps only the last 24h, scores each posting against your resume and drafts CVs and cover letters | Next.js, Supabase, Gemini |
-| **[Movie Approval CMS](https://github.com/prakashshuklahub/movie-approval-cms)** · [live ↗](https://movie-approval-cms.vercel.app) | Editorial approval workflow — editors submit, admins approve or reject, approved titles publish to the Movies collection, exposed over REST and GraphQL | Payload CMS 3, Next.js, MongoDB |
+| **[Movie Approval CMS](https://github.com/prakashshuklahub/movie-approval-cms)** | Editorial approval workflow — editors submit, admins approve or reject, approved titles publish to the Movies collection, exposed over REST and GraphQL | Payload CMS 3, Next.js, MongoDB |
 | **[Media Service](https://github.com/prakashshuklahub/Media-Service)** | Typed Express search API over Elasticsearch — text query plus date-range, photographer and type filters, with a health endpoint and Jest coverage | TypeScript, Express, Elasticsearch |
-| **[Cryptographic Converter](https://github.com/prakashshuklahub/cryptographic-converter)** · [live ↗](https://cryptographic-converter.vercel.app) | Node-graph playground for hashing — wire a string node into a hash node and watch the digest fall out, computed in-browser with the Web Crypto API | React, Vite, React Flow |
+| **[Cryptographic Converter](https://github.com/prakashshuklahub/cryptographic-converter)** | Node-graph playground for hashing — wire a string node into a hash node and watch the digest fall out, computed in-browser with the Web Crypto API | React, Vite, React Flow |
 | **[Interview Questions](https://github.com/prakashshuklahub/Interview-Questions)** | 100+ annotated DSA solutions in Java, each one paired with the video where I walk through it | Java, LeetCode, InterviewBit |
 
 ## 🎬 The Hustling Engineer
