@@ -20,7 +20,7 @@
 
 - Modernising **CityAM**, a UK news platform serving **100,000+ daily users** — stability, performance, maintainability.
 - Designed a **multi-tenant architecture** across 10+ corporate sites that cut duplicate code by **50%** and made onboarding a new site fast.
-- Driving accessibility to **WCAG** standards: semantic HTML, ARIA, full keyboard navigation.
+- Building and maintaining **10+ corporate websites**, working with product managers, designers and stakeholders to ship business requirements on schedule.
 
 ## 📈 Things I've shipped
 
