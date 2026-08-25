@@ -102,14 +102,9 @@ The solutions from the DSA videos live in **[Interview-Questions](https://github
 ## 📊 GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prakashshuklahub&show_icons=true&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=prakashshuklahub&show_icons=true&hide_border=true" alt="Prakash Shukla's GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashshuklahub&layout=compact&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashshuklahub&layout=compact&hide_border=true" alt="Top languages" height="165" />
-  </picture>
+  <a href="https://github.com/prakashshuklahub?tab=followers"><img src="https://img.shields.io/github/followers/prakashshuklahub?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=2ea44f" alt="Followers" /></a>
+  <a href="https://github.com/prakashshuklahub?tab=repositories"><img src="https://img.shields.io/github/stars/prakashshuklahub?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=f0b400" alt="Total stars" /></a>
+  <a href="https://github.com/prakashshuklahub/Interview-Questions"><img src="https://img.shields.io/github/stars/prakashshuklahub/Interview-Questions?style=for-the-badge&logo=github&label=Interview-Questions&labelColor=0d1117&color=f0b400" alt="Interview-Questions stars" /></a>
 </p>
 
 ---
