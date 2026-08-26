@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prakash-shukla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@TheHustlingEngineer"><img src="https://img.shields.io/badge/YouTube-21K%2B%20subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:prakashshukla1820@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/New%20Delhi,%20India-333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="New Delhi, India" />
+  <a href="https://www.linkedin.com/in/prakash-shukla/"><img src="assets/badges/linkedin-709578.svg" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@TheHustlingEngineer"><img src="assets/badges/youtube-21k-subs-a125a6.svg" alt="YouTube" /></a>
+  <a href="mailto:prakashshukla1820@gmail.com"><img src="assets/badges/email-c232c9.svg" alt="Email" /></a>
+  <img src="assets/badges/new-delhi-india-081ff4.svg" alt="New Delhi, India" />
 </p>
 
 ---
@@ -39,45 +39,45 @@
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![React](assets/badges/react-7097e3.svg)
+![Next.js](assets/badges/next-js-7c6019.svg)
+![TypeScript](assets/badges/typescript-e02e15.svg)
+![JavaScript](assets/badges/javascript-9c3bed.svg)
+![Angular](assets/badges/angular-8bc26e.svg)
+![Astro](assets/badges/astro-faa24c.svg)
+![Tailwind](assets/badges/tailwind-3a99e3.svg)
+![SCSS](assets/badges/scss-728a4b.svg)
+![Storybook](assets/badges/storybook-aa04c7.svg)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Node.js](assets/badges/node-js-505e41.svg)
+![Express](assets/badges/express-b89053.svg)
+![Java](assets/badges/java-002341.svg)
+![Spring Boot](assets/badges/spring-boot-a3a41e.svg)
+![REST APIs](assets/badges/rest-apis-c6442f.svg)
+![WebSockets](assets/badges/websockets-639a4c.svg)
+![OAuth 2.0](assets/badges/oauth-2-0-4fcd18.svg)
 
 **Data**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](assets/badges/mysql-82c904.svg)
+![PostgreSQL](assets/badges/postgresql-80a83a.svg)
+![MongoDB](assets/badges/mongodb-948470.svg)
+![Supabase](assets/badges/supabase-c18b17.svg)
+![Firebase](assets/badges/firebase-b70b17.svg)
+![Elasticsearch](assets/badges/elasticsearch-92481f.svg)
 
 **Testing & DevOps**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jest](assets/badges/jest-fb062a.svg)
+![Testing Library](assets/badges/testing-library-19bdab.svg)
+![Playwright](assets/badges/playwright-412f1a.svg)
+![Sentry](assets/badges/sentry-8a7430.svg)
+![Docker](assets/badges/docker-362f4b.svg)
+![AWS](assets/badges/aws-0721f8.svg)
+![GitHub Actions](assets/badges/github-actions-ca3bd5.svg)
+![Linux](assets/badges/linux-900ab7.svg)
 
 ## 📌 Featured projects
 
